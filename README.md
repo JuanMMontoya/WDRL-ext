@@ -5,7 +5,7 @@ Wide and Deep Reinforcement Learning (WDRL) implementation in Pac-man using our 
 This is an extension of the original paper that you can download [here](http://www.scitepress.org/PublicationsDetail.aspx?ID=0bLGtol9A6g=&t=1).
 
 In this new version,
-we developed the idea to try to turn the wide component off and on again. This creates replays for both a pure DQN and a
+we developed the idea to turn the wide component off and on again. This creates replays for both a pure DQN and a
 WDQN and thus forces the deep component to work independently (namely when the
 wide component is switched off). 
 
